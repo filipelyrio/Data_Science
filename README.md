@@ -16,5 +16,3 @@ Uma análise exploratória dos dados do Airbnb sobre a cidade de Lisboa (Portuga
 
 [Airbnb_Lisboa.ipynb](/Projeto_Airbnb_Lisboa/Airbnb_Lisboa.ipynb)
 
-<p align="center"> texto que você quiser </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/filipelyrio/count.svg" /></p>
