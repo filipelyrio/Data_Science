@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" >
+</p>
 
 ### Olá, seja bem vindo!
 Sou um explorador do universo de Data Science, iniciante, porém determinado. Me formei em Engenharia Elétrica em 2006 e também sou Day Trader.
