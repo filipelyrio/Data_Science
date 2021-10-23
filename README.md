@@ -18,5 +18,5 @@ Sou um explorador do universo de Data Science, iniciante, porém determinado. Me
 ### Análise de dados do Airbnb em Lisboa 
 Uma análise exploratória dos dados do Airbnb sobre a cidade de Lisboa (Portugal)
 
-[Airbnb_Lisboa.ipynb](/Projeto_Airbnb_Lisboa/Airbnb_Lisboa.ipynb)
+[Airbnb_Lisboa.ipynb](/Projeto_Airbnb_Lisboa/Airbnb_Lisboa_v1.1.ipynb)
 
