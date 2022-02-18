@@ -4,10 +4,10 @@
 
 
 ### Olá, seja bem vindo!
-Sou um explorador do universo de Data Science, iniciante, porém determinado. Me formei em Engenharia Elétrica em 2006 e também sou Day Trader.
+Sou um explorador do universo de Data Science, iniciante, porém determinado. Me formei em Engenharia Elétrica em 2006 e estou em transição de carreira.
 
 - 🔭 Estou iniciando meu portifólio com análise exploratória, mesclando estudo teórico e prática.
-- 🌱 Em breve pretendo desenvolver um projeto ligado ao mercado financeiro.
+- 🌱 Em breve pretendo desenvolver um projeto ligado a fraudes em Cartões de Créditos.
 - 🤝 Estou procurando colaborar em projetos de Data Science e Machine Learning nas mais diversas áreas.
                                              
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=filipelyrio)
@@ -20,3 +20,7 @@ Uma análise exploratória dos dados do Airbnb sobre a cidade de Lisboa (Portuga
 
 [Airbnb_Lisboa.ipynb](/Airbnb_Lisboa_final.ipynb)
 
+### Estudo IBOVESPA 
+Análise do comportamento do Índice Bovespa nos últimos 10 anos.
+
+[Projeto_IBOVESPA.ipynb](/Projeto_IBOVESPA.ipynb)
