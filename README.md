@@ -4,7 +4,8 @@
 
 
 ### Olá, seja bem vindo!
-Sou um explorador do universo de Data Science, iniciante, porém determinado. Me formei em Engenharia Elétrica em 2006 e estou em transição de carreira.
+Profissional em transição de carreira. 
+Sou formado em Engenharia Elétrica (2006) com experiência na construção de subestações de energia. Atualmente, estou dedicado às habilidades nas áreas de Ciência de Dados, Inteligência Artificial, e Estatística além dos idiomas Francês e Inglês.
 
 - 🔭 Estou iniciando meu portifólio com análise exploratória e alguns algorítmos de Machine Learnig, mesclando estudo teórico e prática.
 - 🌱 Em breve pretendo desenvolver projetos mais aprofundados.
