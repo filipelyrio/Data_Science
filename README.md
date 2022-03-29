@@ -6,8 +6,8 @@
 ### Olá, seja bem vindo!
 Sou um explorador do universo de Data Science, iniciante, porém determinado. Me formei em Engenharia Elétrica em 2006 e estou em transição de carreira.
 
-- 🔭 Estou iniciando meu portifólio com análise exploratória, mesclando estudo teórico e prática.
-- 🌱 Em breve pretendo desenvolver um projeto ligado a fraudes em Cartões de Créditos.
+- 🔭 Estou iniciando meu portifólio com análise exploratória e alguns algorítmos de Machine Learnig, mesclando estudo teórico e prática.
+- 🌱 Em breve pretendo desenvolver projetos mais aprofundados.
 - 🤝 Estou procurando colaborar em projetos de Data Science e Machine Learning nas mais diversas áreas.
                                              
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=filipelyrio)
@@ -16,7 +16,7 @@ Sou um explorador do universo de Data Science, iniciante, porém determinado. Me
 
 ## Projetos e estudos
 ### Análise de dados do Airbnb em Lisboa 
-Uma análise exploratória dos dados do Airbnb sobre a cidade de Lisboa (Portugal)
+Uma análise exploratória dos dados do Airbnb sobre a cidade de Lisboa (Portugal).
 
 [Airbnb_Lisboa.ipynb](/Airbnb_Lisboa_final.ipynb)
 
@@ -24,3 +24,14 @@ Uma análise exploratória dos dados do Airbnb sobre a cidade de Lisboa (Portuga
 Análise do comportamento do Índice Bovespa nos últimos 10 anos.
 
 [Projeto_IBOVESPA.ipynb](/Projeto_IBOVESPA.ipynb)
+
+### Detecção de Fraudes em Cartões de Crédito 
+Uso de Machine Learning para detecção de fraudes em transações com Cartões de Crédito.
+
+[Projeto_IBOVESPA.ipynb](/Detecção_de_Fraudes_em_Cartões_de_Crédito.ipynb)
+
+
+
+
+
+
