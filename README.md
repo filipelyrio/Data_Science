@@ -22,7 +22,11 @@ Sou formado em Engenharia Elétrica (2006) com experiência na construção de s
 ### California Housing Prices
 Predição de valores de casas na Califórnia (EUA).
 
-[California Housing Prices.ipynb](/California Housing Prices.ipynb)
+### Detecção de Fraudes em Cartões de Crédito 
+Uso de Machine Learning para detecção de fraudes em transações com Cartões de Crédito.
+
+[Projeto_IBOVESPA.ipynb](/Detecção_de_Fraudes_em_Cartões_de_Crédito.ipynb)
+
 
 ### Detecção de Fraudes em Cartões de Crédito 
 Uso de Machine Learning para detecção de fraudes em transações com Cartões de Crédito.
