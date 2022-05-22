@@ -40,3 +40,4 @@ Uma análise exploratória dos dados do Airbnb sobre a cidade de Lisboa (Portuga
 [Airbnb_Lisboa.ipynb](/Airbnb_Lisboa_final.ipynb)
 
 
+
