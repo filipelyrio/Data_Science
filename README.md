@@ -22,7 +22,7 @@ Sou formado em Engenharia Elétrica (2006) com experiência na construção de s
 ### California Housing Prices
 Predição de valores de casas na Califórnia (EUA).
 
-[California_Housing_Prices.ipynb](/California_Housing_Prices.ipynb.ipynb)
+[California_Housing_Prices.ipynb](/California_Housing_Prices.ipynb)
 
 
 ### Detecção de Fraudes em Cartões de Crédito 
