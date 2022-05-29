@@ -35,10 +35,10 @@ Análise do comportamento do Índice Bovespa nos últimos 10 anos.
 
 [Projeto_IBOVESPA.ipynb](/Projeto_IBOVESPA.ipynb)
 
-### Análise de dados do Airbnb em Lisboa 
+### Análise de dados do Airbnb em Lisboa - Atualizado em 29/05/22
 Uma análise exploratória dos dados do Airbnb sobre a cidade de Lisboa (Portugal).
 
-[Airbnb_Lisboa.ipynb](/Airbnb_Lisboa_final.ipynb)
+[Airbnb_Lisboa.ipynb](/Airbnb_Lisboa_v2.ipynb)
 
 
 
