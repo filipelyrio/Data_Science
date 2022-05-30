@@ -28,7 +28,7 @@ Predição de valores de casas na Califórnia (EUA).
 ### Detecção de Fraudes em Cartões de Crédito 
 Uso de Machine Learning para detecção de fraudes em transações com Cartões de Crédito.
 
-[Projeto_IBOVESPA.ipynb](/Detecção_de_Fraudes_em_Cartões_de_Crédito.ipynb)
+[Detecção_de_Fraudes_em_Cartões_de_Crédito.ipynb](/Detecção_de_Fraudes_em_Cartões_de_Crédito.ipynb)
 
 ### Estudo IBOVESPA 
 Análise do comportamento do Índice Bovespa nos últimos 10 anos.
